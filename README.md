@@ -33,6 +33,5 @@ projetoFletHotel/
     python app.py
 
 ## 📦 Dependências
-Flet
-Outras listadas em requirements.txt
+Flet listado no requirements.txt
 
