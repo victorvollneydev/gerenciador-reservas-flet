@@ -18,8 +18,8 @@ projetoFletHotel/
 ## 🔧 Como executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/seu-repo.git
-   cd seu-repo
+   git clone https://github.com/victorvollneydev/gerenciador-reservas-flet
+   cd gerenciador-reservas-flet
 
 2. Crie e ative um ambiente virtual:
 - python -m venv venv
